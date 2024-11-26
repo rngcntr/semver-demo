@@ -1,0 +1,6 @@
+### Cake ###
+tools/*
+test-results/
+artifacts/
+.idea/
+/.vs
